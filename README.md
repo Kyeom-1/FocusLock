@@ -127,12 +127,4 @@ dart run flutter_native_splash:create
 
 `google-services.json` and `firebase_options.dart` contain Firebase project identifiers. Keep the repository private, or add them to `.gitignore` and restrict your API keys in the Google Cloud console. Never commit release keystores (`*.jks`, `key.properties`).
 
-## Authors
 
-- [Names of Proponents]
-
-Submitted to: [Name of Instructor]
-
-## License
-
-[Choose a license, for example MIT, or remove this section.]
