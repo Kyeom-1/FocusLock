@@ -46,3 +46,18 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Secrets and signing (never commit)
+*.jks
+*.keystore
+key.properties
+android/local.properties
+
+# Firebase config (uncomment if the repo is or will be public)
+# android/app/google-services.json
+# lib/firebase_options.dart
+
+# Misc
+*.zip
+*.7z
+.env
