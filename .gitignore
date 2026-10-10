@@ -60,4 +60,4 @@ android/local.properties
 # Misc
 *.zip
 *.7z
-.env
+.envlib/firebase_options.dart 
